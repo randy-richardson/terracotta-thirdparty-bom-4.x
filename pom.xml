@@ -31,12 +31,12 @@ limitations under the License.
 
     <properties>
         <!-- keep jetty.version in sync with security-parent/management-apps -->
-        <jetty.version>10.0.20</jetty.version>
-        <jackson.version>2.16.1</jackson.version>
+        <jetty.version>10.0.24</jetty.version>
+        <jackson.version>2.18.0</jackson.version>
         <jersey.version>2.41</jersey.version>
 
-        <guava.version>33.0.0-jre</guava.version>
-        <groovy.version>4.0.17</groovy.version>
+        <guava.version>33.3.1-jre</guava.version>
+        <groovy.version>4.0.23</groovy.version>
         <shiro.version>1.13.0</shiro.version>
         <csrfguard.version>4.3.0</csrfguard.version>
 
